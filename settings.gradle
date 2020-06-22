@@ -1,0 +1,2 @@
+rootProject.name='Android-Kotlin-MVP-Login'
+include ':app'
